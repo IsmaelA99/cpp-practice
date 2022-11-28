@@ -1,1 +1,1 @@
-# CPP-Practice
+# C++ Practice project
